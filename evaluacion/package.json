@@ -1,25 +1,5 @@
 {
-  "name": "evaluacion",
-  "version": "1.0.0",
-  "description": "Prueba 4 testing",
-  "main": "index.js",
   "scripts": {
-    "test": "cypress open"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/anvaperi/DeustoPrueba4.git"
-  },
-  "keywords": [
-    "testing"
-  ],
-  "author": "Antonio VP",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anvaperi/DeustoPrueba4/issues"
-  },
-  "homepage": "https://github.com/anvaperi/DeustoPrueba4#readme",
-  "devDependencies": {
-    "cypress": "^14.5.4"
+    "cy:open": "cypress open"
   }
 }
